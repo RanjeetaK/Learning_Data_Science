@@ -1,2 +1,1 @@
-# Data-Science-Masters
-Learning Data Science.
+# Learning Data Science.
